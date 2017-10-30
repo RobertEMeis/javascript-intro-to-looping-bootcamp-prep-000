@@ -17,3 +17,13 @@ function whileLoop(n) {
  }
 
 }
+
+
+function doWhileLoop(array) {
+
+  do {
+    array.delete(); 
+  } while (maybeTrue())
+
+  
+}
