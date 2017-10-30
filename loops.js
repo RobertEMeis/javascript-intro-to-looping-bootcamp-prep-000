@@ -14,7 +14,8 @@ function whileLoop(n) {
  while (n >= 0) {
 
    n -= 1;
- }
+   console.log(n)
+   }
 
 }
 
@@ -28,5 +29,5 @@ function doWhileLoop(array) {
   do {
     array.pop();
   } while (maybeTrue())
-  return array; 
+  return array;
 }
