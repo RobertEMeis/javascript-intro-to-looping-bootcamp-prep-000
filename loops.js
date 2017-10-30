@@ -22,8 +22,10 @@ function whileLoop(n) {
 function doWhileLoop(array) {
 
   do {
-    array.delete(); 
+    array.pop();
   } while (maybeTrue())
 
-  
+
 }
+
+
