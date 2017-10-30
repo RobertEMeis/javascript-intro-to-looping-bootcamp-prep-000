@@ -15,7 +15,7 @@ function whileLoop(n) {
 
    n -= 1;
  }
- 
+
 }
 
 
